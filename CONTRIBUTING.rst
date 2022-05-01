@@ -6,7 +6,7 @@ Please submit a pull request or open a github issue at
 
   https://github.com/SIAGOptimization/siagoptimization.github.io/issues
   
-or by emailing  ``SIAM-CSE-Officers@siam.org`` and interacting with us to ensure that your effort is well-directed.
+or by emailing  ``SIAM-Opt-Officers@siam.org`` and interacting with us to ensure that your effort is well-directed.
 
 
 Contributions
