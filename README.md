@@ -24,19 +24,21 @@ Membership in SIAM activity groups is open only to [SIAM members](http://www.sia
 SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT Views and News](ViewandNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the editors, [Somayeh Moazeni](mailto:smoazeni@stevens.edu) and [Pietro Belotti](mailto:pietro.belotti@polimi.it). All submissions must be in Latex format and preferably in doublecolumn format.
+[SIAG/OPT Views and News](ViewandNews.md "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
+[Views and News editors](ViewandNews.md "Views and News editors"). 
 
 Posting to SIAG/OPT
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-You may post messages to the SIAG/OPT membership by sending mail to [opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions contact the [opt list manager](mailto:siam-opt-owner@siam.org).
+
+[SIAG/OPT has a mailing list/discussion post on SIAM's Engage platform](https://engage.siam.org/communities/community-home/digestviewer?communitykey=99708ec8-56ff-4a38-b638-918646d1b321&tab=digestviewer). If you are a member of SIAG/OPT and have previously logged in to [SIAM's Engage platform](https://engage.siam.org "SIAM Engage"), you may post messages to the SIAG/OPT membership by sending mail to [siam-opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions, please refer to [SIAM's Engage FAQ]([mailto:siam-opt-owner@siam.org](https://engage.siam.org/participate/faq).
 
 SIAG/Optimization Prizes
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Best Paper Prize**
 
-The next SIAG/Optimization Best Paper Prize will be presented at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Best Paper Prize](http://www.siam.org/prizes/sponsored/siagopt.php/) will be presented at the SIAM Conference on Optimization in 2023.
 
 The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize page](http://www.siam.org/prizes/sponsored/siagopt.php/) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
@@ -45,15 +47,23 @@ The 2020 prize was awarded to Hamza Fawzi, James Saunderson, and Pablo Parrilo f
   
 **Early Career Prize**
 
-The next SIAG/Optimization Early Career Prize will be awarded at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2023.
 
 The SIAG/Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 The 2020 prize was awarded to John Duchi.
 
+**Test of Time Prize**
+
+The first [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2023.
+
+See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize.
+
+
 SIAG/OPT Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+* [14th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23/), May 31-June 3, 2023, Seattle, Washington.
 * [13th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op21/), July 20-23, 2021, Spokane, Washington (online).
     * _13th SIAM Conference on Optimization, May 26-29, 2020, Hong Kong Polytechnic University, Hong Kong_ \-\- postponed to 2021.
 * [12th SIAM Conference on Optimization](http://www.siam.org/meetings/op17/), May 22-25, 2017, Vancouver, Canada.
