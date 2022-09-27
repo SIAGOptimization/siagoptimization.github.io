@@ -4,20 +4,6 @@ Public website for the SIAM Activity Group on Optimization.
 
 This activity group fosters the development of optimization theory, methods, and software -- and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
 
-Contents
---------
-
-* [1 How to join SIAG/OPT](#How_to_join_SIAG.2FOPT)
-* [2 SIAG Newsletter](#SIAG_Newsletter)
-* [3 Posting to SIAG/OPT](#Posting_to_SIAG.2FOPT)
-* [4 SIAG/Optimization Prizes](#SIAG.2FOptimization_Prizes)
-* [5 SIAG/OPT Conferences](#SIAG.2FOPT_Conferences)
-* [6 SIAG/OPT Business Meetings](#SIAG.2FOPT_Business_Meetings)
-* [7 Other Sites of Interest](#Other_Sites_of_Interest)
-* [8 New Officers elected for 2020-2023](#New_Officers_elected_for_2020-2023)
-* [9 Informal Job Descriptions of Officers](#Informal_Job_Descriptions_of_Officers)
-* [10 Past Officers of SIAG/Optimization](#Past_Officers_of_SIAG.2FOptimization)
-
 How to join SIAG/OPT
 -----------------------------------------------------------------------------------------------------------------------------------------
 
