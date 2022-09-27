@@ -74,13 +74,13 @@ SIAG/OPT Conferences
 * [Plenary lectures and information from the Seventh SIAM Conference on Optimization](http://mason.gmu.edu/%7Easofer/siopt/), 2002, Toronto, Canada.
 * [Sixth SIAM Conference on Optimization](http://www.siam.org/meetings/op99/), 1999, Final Program.
 
-\[[edit](/siag-op/index.php?title=SIAG_on_Optimization&action=edit&section=6 "Edit section: SIAG/OPT Business Meetings")\] SIAG/OPT Business Meetings
+SIAG/OPT Business Meetings
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-* July 19, 2021 at SIAM OP20/21: [Slides (pdf)](/siag-op/images/siag-op/6/6b/OP21Slides.pdf "OP21Slides.pdf"), [Notes (pdf)](/siag-op/images/siag-op/0/0e/OP21notes.pdf "OP21notes.pdf"), [Recording](https://youtu.be/ixwNDtodAGM)
-* May 23, 2017 at SIAM OP17: [Notes (pdf)](http://evoq-eval.siam.org/Portals/0/SIAG%20Business%20Meetings/Optimization/minutes_17.pdf?ver=2018-04-16-131146-837)
-* May 18, 2011 at SIAM OP11: [Slides (pdf)](http://evoq-eval.siam.org/Portals/0/SIAG%20Business%20Meetings/Optimization/slides_11.pdf?ver=2018-04-16-131147-367), [Notes (pdf)](http://evoq-eval.siam.org/Portals/0/SIAG%20Business%20Meetings/Optimization/minutes_11.pdf?ver=2018-04-16-131146-837)
-* May 18, 2008 at SIAM OP08: [Slides (pdf)](http://evoq-eval.siam.org/Portals/0/SIAG%20Business%20Meetings/Optimization/slides_08.pdf?ver=2018-04-16-131147-290), [Notes (pdf)](http://evoq-eval.siam.org/Portals/0/SIAG%20Business%20Meetings/Optimization/minutes_08.pdf?ver=2018-04-16-131146-837)
+* July 19, 2021 at SIAM OP20/21: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/OP21Slides.pdf "OP21Slides.pdf"), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/OP21notes.pdf "OP21notes.pdf"), [Recording](https://youtu.be/ixwNDtodAGM)
+* May 23, 2017 at SIAM OP17: [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_17.pdf)
+* May 18, 2011 at SIAM OP11: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/slides_11.pdf), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_11.pdf)
+* May 18, 2008 at SIAM OP08: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/slides_08.pdf), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_08.pdf)
 
 Other Sites of Interest
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -93,7 +93,7 @@ Other Sites of Interest
 * [NEOS: Online Optimization Services and Guide](http://neos-server.org/neos/)
 * [Stochastic Programming Community Home Page](http://stoprog.org/)
 
-New Officers elected for 2020-2023
+New Officers elected for 2020-2022
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2020 - 2023
@@ -129,15 +129,15 @@ Informal Job Descriptions of Officers
 Past Officers of SIAG/Optimization
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 2020 - 2023
+* 2020 - 2022
     * Chair: Katya Scheinberg; Vice Chair: Sam Burer; Program Director: Jeff Linderoth; Secretary: Stefan Wild
-* 2017 - 2020
+* 2017 - 2019
     * Chair: Tamás Terlaky; Vice Chair: Andreas Waechter; Program Director: Michael Friedlander; Secretary/Treasurer: Jim Luedtke
-* 2014 - 2017
+* 2014 - 2016
     * Chair: Juan Meza; Vice Chair: Martine Labbé; Program Director: Michael Friedlander; Secretary/Treasurer: Kim-Chuan Toh
-* 2011 - 2014
+* 2011 - 2013
     * Chair: Michael Todd; Vice Chair: Mihai Anitescu; Program Director: Miguel Anjos; Secretary/Treasurer: Marina Epelman
-* 2008 - 2011
+* 2008 - 2010
     * Chair: Michael C. Ferris; Vice Chair: Yinyu Ye; Program Director: Stephen A. Vavasis; Secretary/Treasurer: S. Thomas McCormick
 * 2004 - 2007
     * Chair: Kurt M. Anstreicher; Vice Chair: Robert J. Vanderbei; Program Director: Sven Leyffer; Secretary/Treasurer: Kees Roos
