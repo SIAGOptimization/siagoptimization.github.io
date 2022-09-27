@@ -4,6 +4,8 @@ Public website for the SIAM Activity Group on Optimization.
 
 This activity group fosters the development of optimization theory, methods, and software -- and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
 
+Additional information about the SIAM Activity Group on Optimization may be found [at SIAM](http://www.siam.org/activity/optimization).
+
 How to join SIAG/OPT
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,7 +14,7 @@ Membership in SIAM activity groups is open only to [SIAM members](http://www.sia
 SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
+[SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io/). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
 [Views and News editors](ViewsAndNews "Views and News editors"). 
 
 Posting to SIAG/OPT
