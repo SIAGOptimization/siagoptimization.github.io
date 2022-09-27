@@ -25,7 +25,7 @@ SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
 [SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
-[Views and News editors](ViewandNews.md "Views and News editors"). 
+[Views and News editors](ViewsAndNews "Views and News editors"). 
 
 Posting to SIAG/OPT
 ---------------------------------------------------------------------------------------------------------------------------------------
