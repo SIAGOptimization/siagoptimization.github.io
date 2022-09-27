@@ -24,7 +24,7 @@ Membership in SIAM activity groups is open only to [SIAM members](http://www.sia
 SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT Views and News](ViewandNews.md "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
+[SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
 [Views and News editors](ViewandNews.md "Views and News editors"). 
 
 Posting to SIAG/OPT
@@ -38,9 +38,9 @@ SIAG/Optimization Prizes
 
 **Best Paper Prize**
 
-The next [SIAG/Optimization Best Paper Prize](http://www.siam.org/prizes/sponsored/siagopt.php/) will be presented at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Best Paper Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize/) will be presented at the SIAM Conference on Optimization in 2023.
 
-The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize page](http://www.siam.org/prizes/sponsored/siagopt.php/) for more details of the prize, including guidelines, past prize winners, and past prize committees.
+The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 The 2020 prize was awarded to Hamza Fawzi, James Saunderson, and Pablo Parrilo for their paper "Semidefinite Approximations of the Matrix Logarithm."
 
