@@ -1,6 +1,8 @@
 SIAG on Optimization
 ====================
-Public website for the SIAM Activity Group on Optimization
+Public website for the SIAM Activity Group on Optimization.
+
+This activity group fosters the development of optimization theory, methods, and software -- and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
 
 Contents
 --------
@@ -25,16 +27,17 @@ SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
 [SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
-[Views and News editors](ViewandNews.md "Views and News editors"). 
+[Views and News editors](ViewsAndNews "Views and News editors"). 
 
 Posting to SIAG/OPT
 ---------------------------------------------------------------------------------------------------------------------------------------
-
 
 [SIAG/OPT has a mailing list/discussion post on SIAM's Engage platform](https://engage.siam.org/communities/community-home/digestviewer?communitykey=99708ec8-56ff-4a38-b638-918646d1b321&tab=digestviewer). If you are a member of SIAG/OPT and have previously logged in to [SIAM's Engage platform](https://engage.siam.org "SIAM Engage"), you may post messages to the SIAG/OPT membership by sending mail to [siam-opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions, please refer to [SIAM's Engage FAQ]([mailto:siam-opt-owner@siam.org](https://engage.siam.org/participate/faq).
 
 SIAG/Optimization Prizes
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+Every three years SIAG/OPT award three prizes.
 
 **Best Paper Prize**
 
@@ -44,7 +47,6 @@ The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize
 
 The 2020 prize was awarded to Hamza Fawzi, James Saunderson, and Pablo Parrilo for their paper "Semidefinite Approximations of the Matrix Logarithm."
 
-  
 **Early Career Prize**
 
 The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2023.
@@ -59,9 +61,10 @@ The first [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-rec
 
 See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize.
 
-
 SIAG/OPT Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+We organize the triennial SIAM Conference on Optimization, and minisymposia at the SIAM Annual Meeting. Members of the activity group receive discounted registration.
 
 * [14th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23/), May 31-June 3, 2023, Seattle, Washington.
 * [13th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op21/), July 20-23, 2021, Spokane, Washington (online).
@@ -81,6 +84,16 @@ SIAG/OPT Business Meetings
 * May 23, 2017 at SIAM OP17: [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_17.pdf)
 * May 18, 2011 at SIAM OP11: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/slides_11.pdf), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_11.pdf)
 * May 18, 2008 at SIAM OP08: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/slides_08.pdf), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_08.pdf)
+
+SIAG/OPT Charters
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+* [1/1/20 - 12/31/22](https://siagoptimization.github.io/assets/charter/2020_OPT_Charter_Renewal.pdf "2020_OPT_Charter_Renewal.pdf")
+* [1/1/17 -12/31/19](https://siagoptimization.github.io/assets/charter/opt_charter_17-18.pdf)
+* [1/1/13 -12/31/15](https://siagoptimization.github.io/assets/charter/opt_charter_13-15.pdf)
+* [1/1/10 -12/31/12](https://siagoptimization.github.io/assets/charter/opt_charter_10-12.pdf)
+* [1/1/07 -12/31/09](https://siagoptimization.github.io/assets/charter/opt_charter_07-09.pdf)
+* [1/1/04 -12/31/06](https://siagoptimization.github.io/assets/charter/opt_charter_04-06.pdf)
 
 Other Sites of Interest
 -----------------------------------------------------------------------------------------------------------------------------------------------
