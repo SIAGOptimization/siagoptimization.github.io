@@ -20,7 +20,7 @@ SIAG Newsletter
 Posting to SIAG/OPT
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT has a mailing list/discussion post on SIAM's Engage platform](https://engage.siam.org/communities/community-home/digestviewer?communitykey=99708ec8-56ff-4a38-b638-918646d1b321&tab=digestviewer). If you are a member of SIAG/OPT and have previously logged in to [SIAM's Engage platform](https://engage.siam.org "SIAM Engage"), you may post messages to the SIAG/OPT membership by sending mail to [siam-opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions, please refer to [SIAM's Engage FAQ]([mailto:siam-opt-owner@siam.org](https://engage.siam.org/participate/faq).
+[SIAG/OPT has a mailing list/discussion post on SIAM's Engage platform](https://engage.siam.org/communities/community-home/digestviewer?communitykey=99708ec8-56ff-4a38-b638-918646d1b321&tab=digestviewer). If you are a member of SIAG/OPT and have previously logged in to [SIAM's Engage platform](https://engage.siam.org "SIAM Engage"), you may post messages to the SIAG/OPT membership by sending mail to [siam-opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions, please refer to [SIAM's Engage FAQ](https://engage.siam.org/participate/faq).
 
 SIAG/Optimization Prizes
 -------------------------------------------------------------------------------------------------------------------------------------------------
