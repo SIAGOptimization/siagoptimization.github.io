@@ -24,7 +24,7 @@ Membership in SIAM activity groups is open only to [SIAM members](http://www.sia
 SIAG Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT Views and News](/siag-op/index.php/View_and_News "View and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the editors, [Somayeh Moazeni](mailto:smoazeni@stevens.edu) and [Pietro Belotti](mailto:pietro.belotti@polimi.it). All submissions must be in Latex format and preferably in doublecolumn format.
+[SIAG/OPT Views and News](ViewandNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](http://www.siam.org/activity/optimization). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the editors, [Somayeh Moazeni](mailto:smoazeni@stevens.edu) and [Pietro Belotti](mailto:pietro.belotti@polimi.it). All submissions must be in Latex format and preferably in doublecolumn format.
 
 Posting to SIAG/OPT
 ---------------------------------------------------------------------------------------------------------------------------------------
