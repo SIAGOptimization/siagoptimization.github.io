@@ -2,7 +2,7 @@ SIAG on Optimization
 ====================
 Public website for the SIAM Activity Group on Optimization.
 
-This activity group fosters the development of optimization theory, methods, and software -- and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
+This activity group fosters the development of optimization theory, methods, and software — and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
 
 Additional information about the SIAM Activity Group on Optimization may be found [at SIAM](http://www.siam.org/activity/optimization).
 
