@@ -28,8 +28,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        python3 -m pip3 install linkchecker
-        pip install -e .
+        pip3 install linkchecker
     - name: Run linkchecker        
       run: |
         ./linkchecker --verbose https://siagoptimization.github.io/
