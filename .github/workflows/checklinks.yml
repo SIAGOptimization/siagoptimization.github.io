@@ -31,4 +31,4 @@ jobs:
         pip3 install linkchecker
     - name: Run linkchecker        
       run: |
-        ./linkchecker --verbose https://siagoptimization.github.io/
+        linkchecker --verbose https://siagoptimization.github.io/
