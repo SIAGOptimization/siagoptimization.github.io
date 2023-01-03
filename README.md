@@ -47,7 +47,7 @@ The 2020 prize was awarded to Hamza Fawzi, James Saunderson, and Pablo Parrilo f
 
 **Early Career Prize**
 
-The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2026.
 
 The SIAG/Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
@@ -80,15 +80,15 @@ We organize the triennial SIAM Conference on Optimization, and minisymposia at t
 Leadership
 ==========
 
-New Officers elected for 2020-2022
+New Officers elected for 2023-2025
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2020 - 2023
 
-* Katya Scheinberg (Chair)
-* Sam Burer (Vice Chair)
-* Jeff Linderoth (Program Director)
-* Stefan Wild (Secretary)
+* Luis Nunes Vicente (Chair)
+* Coralia Cartis (Vice Chair)
+* Gabriele Eichfelder (Program Director)
+* Juliane Mueller (Secretary)
 
 Informal Job Descriptions of Officers
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
