@@ -83,7 +83,7 @@ Leadership
 New Officers elected for 2023-2025
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2020 - 2023
+Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2023 - 2025
 
 * Luis Nunes Vicente (Chair)
 * Coralia Cartis (Vice Chair)
