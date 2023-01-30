@@ -3,7 +3,7 @@ View and News
 
 Views and News is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, and research questions. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the co-editors, [Pietro Belotti](mailto:pietro.belotti@polimi.it), [Dmitriy Drusvyatskiy](mailto:ddrusv@uw.edu), and [Matt Menickelly](mailto:mmenickelly@anl.gov). All submissions must be in Latex format and preferably in doublecolumn format.
 
-_The current issue is [Volume 30, No. 1, October 2022](https://siagoptimization.github.io/assets/views/ViewsAndNews-30-1.pdf "ViewsAndNews-30-1.pdf")._
+_The current issue is [Volume 30, No. 2, December 2022](https://siagoptimization.github.io/assets/views/ViewsAndNews-30-2.pdf "ViewsAndNews-30-2.pdf")._
 
 Contents
 --------
@@ -24,6 +24,7 @@ Previous Issues
 
 Previous issues of Views-and-News are available as PDF files. _Please cite the source, if you use any of the papers included in Views-and-News._
 
+* [Volume 30, No. 2, December 2022.](https://siagoptimization.github.io/assets/views/ViewsAndNews-30-2.pdf "ViewsAndNews-30-2.pdf")
 * [Volume 30, No. 1, October 2022.](https://siagoptimization.github.io/assets/views/ViewsAndNews-30-1.pdf "ViewsAndNews-30-1.pdf")
 * [Volume 29, No. 1, December 2021.](https://siagoptimization.github.io/assets/views/ViewsAndNews-29-1.pdf "ViewsAndNews-29-1.pdf")
 * [Volume 28, No. 1, December 2020.](https://siagoptimization.github.io/assets/views/ViewsAndNews-28-1.pdf "ViewsAndNews-28-1.pdf")
