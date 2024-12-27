@@ -84,6 +84,6 @@ Former Editors
 Article Templates
 ----------------------------------------------------------------------------------------------------------------------------
 
-The PDF hypertext files are generated using hyperTeX with the standard [hyperref](http://arxiv.org/hypertex/) package, for convenient hyperlinking. Please download the [VT.tgz (compressed tar ball with the current template)](http://www.mcs.anl.gov/~wild/VT.tgz) when preparing a manuscript. Save the file, and uncompress it using `tar xvvzf VT.tgz`, insert your manuscript into `paper1.tex` (included), and type `make` (or use `pdflatex views` several times).
+The PDF hypertext files are generated using hyperTeX with the standard [hyperref](http://arxiv.org/hypertex/) package, for convenient hyperlinking. Please download the [VT.tgz (compressed tar ball with the current template)](//github.com/SIAGOptimization/siagoptimization.github.io/blob/main/assets/views/VT.tgz) when preparing a manuscript. Save the file, and uncompress it using `tar xvvzf VT.tgz`, insert your manuscript into `paper1.tex` (included), and type `make` (or use `pdflatex views` several times).
 
 * [Main Page](https://siagoptimization.github.io)
