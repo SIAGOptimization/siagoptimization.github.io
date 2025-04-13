@@ -39,11 +39,9 @@ Every three years SIAG/OPT award three prizes.
 
 **Best Paper Prize**
 
-The next [SIAG/Optimization Best Paper Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize/) will be presented at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Best Paper Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize/) will be presented at the SIAM Conference on Optimization in 2026.
 
 The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
-
-The 2020 prize was awarded to Hamza Fawzi, James Saunderson, and Pablo Parrilo for their paper "Semidefinite Approximations of the Matrix Logarithm."
 
 **Early Career Prize**
 
@@ -55,15 +53,16 @@ The 2020 prize was awarded to John Duchi.
 
 **Test of Time Prize**
 
-The first [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2023.
+The next [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
 
-See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize.
+The SIAG/Optimization Test of Time Prize was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 SIAG/OPT Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 We organize the triennial SIAM Conference on Optimization, and minisymposia at the SIAM Annual Meeting. Members of the activity group receive discounted registration.
 
+* [15th SIAM Conference on Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/), June 2-5, 2026, Edinburgh, United Kingdom.
 * [14th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op23/), May 31-June 3, 2023, Seattle, Washington.
 * [13th SIAM Conference on Optimization](https://www.siam.org/conferences/cm/conference/op21/), July 20-23, 2021, Spokane, Washington (online).
     * _13th SIAM Conference on Optimization, May 26-29, 2020, Hong Kong Polytechnic University, Hong Kong_ \-\- postponed to 2021.
