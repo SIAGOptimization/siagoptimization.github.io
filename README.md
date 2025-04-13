@@ -49,8 +49,6 @@ The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-reco
 
 The SIAG/Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
-The 2020 prize was awarded to John Duchi.
-
 **Test of Time Prize**
 
 The next [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
