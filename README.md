@@ -39,21 +39,21 @@ Every three years SIAG/OPT award three prizes.
 
 **Best Paper Prize**
 
-The next [SIAG/Optimization Best Paper Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize/) will be presented at the SIAM Conference on Optimization in 2026.
+The next [SIAM Activity Group on Optimization Best Paper Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize/) will be presented at the SIAM Conference on Optimization in 2026.
 
-The SIAG/Optimization Best Paper Prize was first awarded in 1996. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
+The SIAM Activity Group on Optimization Best Paper Prize was first awarded in 1996. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-best-paper-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 **Early Career Prize**
 
-The next [SIAG/Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2026.
+The next [SIAM Activity Group on Optimization Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) will be awarded at the SIAM Conference on Optimization in 2026.
 
-The SIAG/Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
+The SIAM Activity Group on Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 **Test of Time Prize**
 
-The next [SIAG/Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
+The next [SIAM Activity Group on Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
 
-The SIAG/Optimization Test of Time Prize was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
+The SIAM Activity Group on Optimization Test of Time Prize was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 SIAG/OPT Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
