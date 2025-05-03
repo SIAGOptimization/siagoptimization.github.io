@@ -11,12 +11,12 @@ Additional information about the SIAM Activity Group on Optimization may be foun
 Getting Involved
 ================
 
-How to join SIAG/OPT
+How to join the SIAM Activity Group on Optimization
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Membership in SIAM activity groups is open only to [SIAM members](http://www.siam.org/membership/). You can join SIAG/OPT or any other activity group when you initiate or renew your membership or via [join SIAG](https://my.siam.org/forms/join_siag.htm).
 
-Posting to SIAG/OPT
+Posting to SIAM's Engage Platform
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 [SIAG/OPT has a mailing list/discussion board on SIAM's Engage platform](https://engage.siam.org/communities/community-home/digestviewer?communitykey=99708ec8-56ff-4a38-b638-918646d1b321&tab=digestviewer). If you are a member of SIAG/OPT and have previously logged in to [SIAM's Engage platform](https://engage.siam.org "SIAM Engage"), you may post messages to the SIAG/OPT membership by sending mail to [siam-opt](mailto:siam-opt@connectedcommunity.org) for redistribution. Typical messages include announcements of new books, new papers, conferences, workshop and job positions. For further questions, please refer to [SIAM's Engage FAQ](https://engage.siam.org/participate/faq).
@@ -26,13 +26,13 @@ Posting to SIAG/OPT
 Activities
 ==========
 
-SIAG Newsletter
+SIAG/OPT Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
 [SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io/). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
 [Views and News editors](ViewsAndNews "Views and News editors"). 
 
-SIAG/Optimization Prizes
+SIAM Activity Group on Optimization Prizes
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 Every three years SIAG/OPT award three prizes.
