@@ -55,7 +55,7 @@ The next [SIAM Activity Group on Optimization Test of Time Prize](https://www.si
 
 The SIAM Activity Group on Optimization Test of Time Prize was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
-SIAG/OPT Conferences
+SIAM on Optimization Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 We organize the triennial SIAM Conference on Optimization, and minisymposia at the SIAM Annual Meeting. Members of the activity group receive discounted registration.
