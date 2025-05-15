@@ -49,11 +49,11 @@ The next [SIAM Activity Group on Optimization Early Career Prize](https://www.si
 
 The SIAM Activity Group on Optimization Early Career Prize was first awarded in 2020. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-early-career-prize) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
-**Test of Time Prize**
+**Test of Time Award**
 
-The next [SIAM Activity Group on Optimization Test of Time Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
+The next [SIAM Activity Group on Optimization Test of Time Award](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) will be awarded at the SIAM Conference on Optimization in 2026.
 
-The SIAM Activity Group on Optimization Test of Time Prize was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
+The SIAM Activity Group on Optimization Test of Time Award was first awarded in 2023. See the [prize page](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-opt-test-of-time) for more details of the prize, including guidelines, past prize winners, and past prize committees.
 
 SIAM on Optimization Conferences
 -----------------------------------------------------------------------------------------------------------------------------------------
