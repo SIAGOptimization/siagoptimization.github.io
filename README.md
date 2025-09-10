@@ -170,8 +170,8 @@ SIAG/OPT Business Meetings
 SIAG/OPT Charters
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-* [1/1/26 - 12/31/28](https://siagoptimization.github.io/assets/charter/opt_charter_26-28.pdf")
-* [1/1/23 - 12/31/25](https://siagoptimization.github.io/assets/charter/opt_charter_23-25.pdf")
+* [1/1/26 - 12/31/28](https://siagoptimization.github.io/assets/charter/opt_charter_26-28.pdf)
+* [1/1/23 - 12/31/25](https://siagoptimization.github.io/assets/charter/opt_charter_23-25.pdf)
 * [1/1/20 - 12/31/22](https://siagoptimization.github.io/assets/charter/2020_OPT_Charter_Renewal.pdf "2020_OPT_Charter_Renewal.pdf")
 * [1/1/17 -12/31/19](https://siagoptimization.github.io/assets/charter/opt_charter_17-18.pdf)
 * [1/1/13 -12/31/15](https://siagoptimization.github.io/assets/charter/opt_charter_13-15.pdf)
