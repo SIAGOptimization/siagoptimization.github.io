@@ -82,10 +82,10 @@ New Officers elected for 2023-2025
 
 Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2023 - 2025
 
-* Luis Nunes Vicente (Chair)
-* Coralia Cartis (Vice Chair)
-* Gabriele Eichfelder (Program Director)
-* Juliane Mueller (Secretary)
+* Michael Ulbrich (Chair)
+* Frank E. Curtis (Vice Chair)
+* Giacomo Nannicini (Program Director)
+* Ana Luísa Custódio (Secretary)
 
 Informal Job Descriptions of Officers
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -113,6 +113,8 @@ Informal Job Descriptions of Officers
 Past Officers of SIAG/Optimization
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* 2022 - 2025
+    * Chair: Luis Nunes Vicente; Vice Chair: Coralia Cartis; Program Director: Gabriele Eichfelder; Secretary: Juliane Mueller 
 * 2020 - 2022
     * Chair: Katya Scheinberg; Vice Chair: Sam Burer; Program Director: Jeff Linderoth; Secretary: Stefan Wild
 * 2017 - 2019
