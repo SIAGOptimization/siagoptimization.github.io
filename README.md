@@ -4,7 +4,7 @@ Public website for the SIAM Activity Group on Optimization.
 
 This activity group fosters the development of optimization theory, methods, and software — and in particular the development and analysis of efficient and effective methods, as well as their implementation in high-quality software. It provides and encourages an environment for interaction among applied mathematicians, computer scientists, engineers, scientists, and others active in optimization.
 
-Additional information about the SIAM Activity Group on Optimization may be found [at SIAM](http://www.siam.org/activity/optimization).
+Additional information about the SIAM Activity Group on Optimization may be found [at SIAM](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/optimization).
 
 ---
 
@@ -29,8 +29,8 @@ Activities
 SIAG/OPT Newsletter
 -------------------------------------------------------------------------------------------------------------------------------
 
-[SIAG/OPT Views and News](ViewsAndNews "Views and News") is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io/). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
-[Views and News editors](ViewsAndNews "Views and News editors"). 
+[SIAG/OPT Views and News](https://siagoptimization.github.io/ViewsAndNews.html) is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, research questions and job openings. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the 
+[Views and News editors](https://siagoptimization.github.io/ViewsAndNews.html). 
 
 SIAM Activity Group on Optimization Prizes
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -108,7 +108,7 @@ Informal Job Descriptions of Officers
 
 * The SIAG/OPT Views-and-News editor solicits articles or special issues for our newsletter, edits, and publishes each issue. The editor is appointed by the elected SIAG officers.
 
-[Formal Job Descriptions of Officers](http://www.siam.org/activity/optimization/procedure.php)
+[Formal Job Descriptions of Officers](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/information-for-activity-group-officers/officer-responsibilities-and-job-descriptions)
 
 Past Officers of SIAG/Optimization
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -151,7 +151,7 @@ Other Sites of Interest
 * [EUROPT: The Continuous Optimization Working Group of EURO](http://www.iam.metu.edu.tr/EUROPT/)
 * [Institute for Operations Research and the Management Sciences](http://www.informs.org/)
 * [Mathematical Optimization Society](http://www.mathopt.org/)
-* [Michael Trick's Operations Research Page](http://mat.gsia.cmu.edu/)
+* [Michael Trick's Operations Research Page](https://mat.tepper.cmu.edu/)
 * [NEOS: Online Optimization Services and Guide](http://neos-server.org/neos/)
 * [Stochastic Programming Community Home Page](http://stoprog.org/)
 
