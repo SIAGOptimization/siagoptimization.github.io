@@ -77,7 +77,7 @@ We organize the triennial SIAM Conference on Optimization, and minisymposia at t
 Leadership
 ==========
 
-New Officers elected for 2023-2025
+New Officers elected for 2026-2028
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Congratulations to the following people who were elected to three year terms as officers of the SIAG from 2026 - 2028
