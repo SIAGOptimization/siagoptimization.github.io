@@ -81,7 +81,7 @@ Former Editors
 * [Luis N. Vicente](https://coral.ise.lehigh.edu/lnv/) 2003-2008
 * [Jos F. Sturm](https://www.math.uwaterloo.ca/~hwolkowi/w04workshop.d/wphotos.d/obitjos.html) 2002-2003
 * [Juan C. Meza](https://www.juancmeza.com) 1996-2002
-* [Larry Nazareth] 1992-1996
+* Larry Nazareth 1992-1996
 
 Article Templates
 ----------------------------------------------------------------------------------------------------------------------------
