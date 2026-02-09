@@ -78,7 +78,7 @@ Former Editors
 * [Stefan Wild](http://www.mcs.anl.gov/~wild/) 2014-2019
 * [Franz Rendl](https://campus.aau.at/visitenkarte?atoken=711230996) 2011-2014
 * [Sven Leyffer](http://www.mcs.anl.gov/~leyffer) 2008-2014
-* [Luis N. Vicente](https://coral.ise.lehigh.edu/lnv/) 2003-2008
+* [Luis Nunes Vicente](https://coral.ise.lehigh.edu/lnv/) 2003-2008
 * [Jos F. Sturm](https://www.math.uwaterloo.ca/~hwolkowi/w04workshop.d/wphotos.d/obitjos.html) 2002-2003
 * [Juan C. Meza](https://www.juancmeza.com) 1996-2002
 * Larry Nazareth 1992-1996
