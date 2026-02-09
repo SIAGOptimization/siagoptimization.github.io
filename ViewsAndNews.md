@@ -1,7 +1,7 @@
 Views and News
 =============
 
-Views and News is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, and research questions. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the co-editors, [Pietro Belotti](mailto:pietro.belotti@polimi.it), [Dmitriy Drusvyatskiy](mailto:ddrusv@uw.edu), and [Matt Menickelly](mailto:mmenickelly@anl.gov). All submissions must be in LaTeX and preferably in doublecolumn format.
+Views and News is the newsletter for the [SIAM Activity Group on Optimization](https://siagoptimization.github.io). Topics covered include announcements of conferences, forthcoming books, new software, electronic archives, and research questions. If you would like to submit an article to this newsletter please send your contributions by email directly to one of the co-editors, [Dmitriy Drusvyatskiy](mailto:ddrusv@uw.edu), [Jan Kronqvist](mailto:jankr@kth.se) and [Matt Menickelly](mailto:mmenickelly@anl.gov). All submissions must be in LaTeX and preferably in doublecolumn format.
 
 _The current issue is [Volume 33, No. 1, December 2025](https://siagoptimization.github.io/assets/views/ViewsAndNews-33-1.pdf "ViewsAndNews-33-1.pdf")._
 
@@ -72,15 +72,16 @@ Previous issues of Views-and-News are available as PDF files. _Please cite the s
 Former Editors
 ----------------------------------------------------------------------------------------------------------------------
 
+* [Pietro Belotti](https://belotti.faculty.polimi.it) 2020-2026
 * [Somayeh Moazeni](https://faculty.stevens.edu/smoazeni) 2020-2021
 * [Jennifer Erway](http://www.wfu.edu/~erwayjb/) 2014-2020
 * [Stefan Wild](http://www.mcs.anl.gov/~wild/) 2014-2019
-* [Franz Rendl](http://campus.aau.at/org/visitenkarte.jsp?personalnr=2034) 2011-2014
+* [Franz Rendl](https://campus.aau.at/visitenkarte?atoken=711230996) 2011-2014
 * [Sven Leyffer](http://www.mcs.anl.gov/~leyffer) 2008-2014
-* [Luis N. Vicente](http://www.mat.uc.pt/~lnv/) 2003-2008
-* [Jos F. Sturm](http://orion.uwaterloo.ca/~hwolkowi/w04workshop.d/wphotos.d/obitjos.html) 2002-2003
-* [Juan C. Meza](http://hpcrd.lbl.gov/~meza/) 1996-2002
-* [Larry Nazareth](http://www.math.wsu.edu/faculty/nazareth/) 1992-1996
+* [Luis N. Vicente](https://coral.ise.lehigh.edu/lnv/) 2003-2008
+* [Jos F. Sturm](https://www.math.uwaterloo.ca/~hwolkowi/w04workshop.d/wphotos.d/obitjos.html) 2002-2003
+* [Juan C. Meza](https://www.juancmeza.com) 1996-2002
+* [Larry Nazareth] 1992-1996
 
 Article Templates
 ----------------------------------------------------------------------------------------------------------------------------
