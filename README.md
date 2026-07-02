@@ -162,7 +162,7 @@ Business Meetings and Charters
 
 SIAG/OPT Business Meetings
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
+* June 3, 2026 at SIAM OP26: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/OP26Slides.pdf "OP26Slides.pdf"), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/OP26notes.pdf "OP26notes.pdf")
 * May 31, 2023 at SIAM OP23: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/OP23Slides.pdf "OP23Slides.pdf"), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/OP23notes.pdf "OP23notes.pdf")
 * July 19, 2021 at SIAM OP20/21: [Slides (pdf)](https://siagoptimization.github.io/assets/siag/OP21Slides.pdf "OP21Slides.pdf"), [Notes (pdf)](https://siagoptimization.github.io/assets/siag/OP21notes.pdf "OP21notes.pdf"), [Recording](https://youtu.be/ixwNDtodAGM)
 * May 23, 2017 at SIAM OP17: [Notes (pdf)](https://siagoptimization.github.io/assets/siag/minutes_17.pdf)
